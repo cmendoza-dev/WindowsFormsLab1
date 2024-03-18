@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Caso3;
 
-
-namespace WindowsFormsLab1
+namespace Caso3
 {
     internal static class Program
     {
